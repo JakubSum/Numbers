@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Numbers</string>
+    <string name="welcome1">Podaj numer w systemie 10</string>
+    <string name="welcome2">Podaj numer w systemie 2</string>
+    <string name="welcome3">Podaj numer w systemie 16</string>
+    <string name="welcome4">Podaj numer w systemie 8</string>
+    <string name="radio1">System 10</string>
+    <string name="radio2">System 2</string>
+    <string name="radio3">System 16</string>
+    <string name="radio4">System 8</string>
+    <string name="wyn10">Dla systemu 10 to: </string>
+    <string name="wyn2">Dla systemu 2 to: </string>
+    <string name="wyn16">Dla systemu 16 to: </string>
+    <string name="wyn8">Dla systemu 8 to: </string>
+    <string name="banner"><b><i>Zmieniacz</i></b></string>
+</resources>
